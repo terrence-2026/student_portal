@@ -13,15 +13,24 @@ A simple Flask web application to manage students, grades, and generate transcri
 
 
  ##screenshots
-<img width="1899" height="923" alt="screen shot 1" src="https://github.com/user-attachments/assets/677626a1-9fb9-4f34-9224-0960a9d42b3e" />
-<img width="1857" height="937" alt="image" src="https://github.com/user-attachments/assets/007f5568-e4a0-4baf-a14b-3cc1bf2d3da0" />
-<img width="1915" height="830" alt="image" src="https://github.com/user-attachments/assets/8d4af5dc-7622-4fdd-966e-bb03cd082f47" />
-<img width="1367" height="534" alt="Screenshot 2" src="https://github.com/user-attachments/assets/bc763c17-95c5-413b-851e-9cde2b468658" />
-<img width="1910" height="894" alt="image" src="https://github.com/user-attachments/assets/38ae54ba-2fc3-42d7-b06c-555896b00eb6" />
-<img width="1903" height="816" alt="image" src="https://github.com/user-attachments/assets/a2c2b0d7-3b6a-4bde-9a7b-aa946392200b" />
-<img width="1897" height="1056" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1b8d23d9-e273-44dd-8a93-0290f5a05f89" />
-<img width="1110" height="532" alt="image" src="https://github.com/user-attachments/assets/52f6a796-efe5-40ac-9901-7caf6a097904" />
-<img width="1145" height="773" alt="Screenshot 2026-04-06 012353" src="https://github.com/user-attachments/assets/f353e8cf-3304-4c9b-91f7-a5b1999203be" />
+ 
+ <img width="1216" height="881" alt="Screenshot 2026-04-06 183902" src="https://github.com/user-attachments/assets/973beeb5-bca9-4e32-b6c7-413367ee7063" />
+ <img width="1389" height="511" alt="Screenshot 2026-04-06 183914" src="https://github.com/user-attachments/assets/bf4c695f-048c-48bc-b52c-097afc64db26" />
+ <img width="1261" height="282" alt="Screenshot 2026-04-06 183929" src="https://github.com/user-attachments/assets/22da74f9-3387-4134-87cb-1e06ea984bef" />
+ <img width="1515" height="652" alt="Screenshot 2026-04-06 184128" src="https://github.com/user-attachments/assets/bbb5bcd2-8080-42f7-b626-bafdcca4fc8c" />
+ <img width="1308" height="466" alt="Screenshot 2026-04-06 184142" src="https://github.com/user-attachments/assets/3726210e-760a-4eaf-9755-6f7de12c305b" />
+ <img width="1919" height="939" alt="Screenshot 2026-04-06 184236" src="https://github.com/user-attachments/assets/6837b045-2862-4aff-84fb-1b584dc4bb00" />
+ <img width="1176" height="654" alt="Screenshot 2026-04-06 184247" src="https://github.com/user-attachments/assets/03e27564-3b1a-4a25-b693-e75868546947" />
+ <img width="1901" height="718" alt="Screenshot 2026-04-06 184324" src="https://github.com/user-attachments/assets/f4fe00a3-36ed-4cb8-b4dd-5186a2ca0649" />
+
+
+
+
+
+
+
+
+
 
 
 
