@@ -35,16 +35,12 @@ CREATE TABLE grades (
 
 -- =========================
 INSERT INTO students (name, email) VALUES
-('Samuel Yotu', 'Samuel@example.com'),
-('Jake Dwack', 'jake@example.com'),
-('Alice Brown', 'alice+@example.com'),
-('Brown Smith', 'brown@example.com'),
-('Charlie Davinci', 'charlie@example.com'),
-(' Wilson Smith', 'smith@example.com'),
-('Eve White', 'eve@example.com'),
-('Frank Harris', 'frank@example.com'),
-('Grace kee', 'grace@example.com'),
-('Harry King', 'harry@example.com');
+('Simon Gie', 'Simon@example.com'),
+('Chris Momani', 'chris@gmail.com'),
+('Cark Fila', 'Fila@gmail.com'),
+('Stanley Omondi', 'stanley@gmail.com'),
+(' John Doe', 'john@example.com'),
+('Bob Johnson', 'gmail.com');
 
 -- =========================
 
